@@ -1,0 +1,5 @@
+[[redirects]] 
+
+from = "/api/polymarket" 
+
+to = "https://gamma-api.polymarket.com/markets?limit=100%26closed=false%26min_liquidity=1000" status = 200 # OK
